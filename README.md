@@ -1,1 +1,1 @@
-# GhostCode
+# Code Garage
